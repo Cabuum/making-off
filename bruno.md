@@ -1,4 +1,4 @@
-Bruno Casali (Grand master flash!)
+Bruno Casali (Grandmaster Flash!)
 ==============
 
 * git vommit -m 'changed...'
